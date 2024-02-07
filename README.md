@@ -10,6 +10,10 @@ godocs Example and quick documentation
 go install golang.org/x/tools/cmd/godoc@latest
 ```
 
+## Before to start
+
+The godocs only will display the public functions or vars/constants that we created.
+
 ## Descriptions
 
 A comented line before a constant or function is going to create a decription regarding that.
