@@ -14,6 +14,10 @@ go install golang.org/x/tools/cmd/godoc@latest
 
 The godocs only will display the public functions or vars/constants that we created.
 
+## DOCS
+
+https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+
 ## Descriptions
 
 A comented line before a constant or function is going to create a decription regarding that.
