@@ -2,6 +2,8 @@
 
 godocs Example and quick documentation, also serves as a playground to test all features for the godoc.
 
+https://pkg.go.dev/golang.org/x/tools/cmd/godoc
+
 ## Requirements
 
 - Install go on your computer
