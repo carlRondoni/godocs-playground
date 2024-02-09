@@ -1,5 +1,6 @@
-# godocs-example
-godocs Example and quick documentation
+# godocs-playground
+
+godocs Example and quick documentation, also serves as a playground to test all features for the godoc.
 
 ## Requirements
 
